@@ -3,7 +3,7 @@
 ## Kumpulan Tugas Kelas Pemrograman Perangkat Bergerak
 
 1. Hitung Luas ([HitungLuas](https://github.com/wahyua26/mobile-programming-projects/tree/main/HitungLuas))
-2. Aplikasi Penjualan ([Penjualan](https://github.com/wahyua26/mobile-programming-projects))
+2. Aplikasi Penjualan ([Penjualan](https://github.com/wahyua26/mobile-programming-projects/tree/main/Penjualan))
 3. Kalkulator ([SimpleCalculator](https://github.com/wahyua26/mobile-programming-projects/tree/main/SimpleCalculator))
 4. Form Penilaian ([FormNilai](https://github.com/wahyua26/mobile-programming-projects/tree/main/FormNilai))
 5. CRUD SQLite ([CRUD](https://github.com/wahyua26/mobile-programming-projects/tree/main/CRUD))
