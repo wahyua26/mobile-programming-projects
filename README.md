@@ -2,7 +2,7 @@
 
 ## Kumpulan Tugas Kelas Pemrograman Perangkat Bergerak
 
-1. Hitung Luas (HitungLuas)
+1. Hitung Luas (https://github.com/wahyua26/mobile-programming-projects/tree/main/HitungLuas)
 2. Aplikasi Penjualan (TranskasiPenjualan)
 3. Kalkulator (Kalkulator)
 4. Form Penilaian (-)
